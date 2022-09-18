@@ -1,0 +1,1 @@
+A XOR B = (A OR B) AND NOT(A AND B)
